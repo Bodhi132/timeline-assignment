@@ -74,7 +74,7 @@ export default function Timeline() {
 
 
     return (
-        <div className="flex flex-col items-center min-h-screen p-8 w-full h-[250vh]">
+        <div className="flex flex-col items-center min-h-screen p-8 w-full h-[180vh]">
 
             <div ref={timelineRef} className="relative max-w-xl w-full ml-6">
                 {/* Background line */}
